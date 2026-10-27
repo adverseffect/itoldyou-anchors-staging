@@ -1,0 +1,5 @@
+format: 1
+date: 2026-10-26
+last_seq: 47
+entry_hash: 00582d06d080bbc78c686eadc93b11b734873d7af6a7306f9f38cd9ec7128766
+event_count: 47
